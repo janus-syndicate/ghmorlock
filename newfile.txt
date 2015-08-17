@@ -1,1 +1,1 @@
-This is a changed new file.
+This is a changed new file.  To test close github issue.
